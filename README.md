@@ -1,1 +1,1 @@
-https://github.com/adliss1997/posmotri-v-okno-ad.git
+https://github.com/EthelTinei/posmotri-v-okno-ad-mine.git
